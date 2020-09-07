@@ -9,4 +9,8 @@
     <td>Rodrigo Andrade</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>Edgar Vinicius</td>
+    <td>Garanhuns</td>
+  </tr>
 </table>
